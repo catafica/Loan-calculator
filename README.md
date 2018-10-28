@@ -1,2 +1,2 @@
 # Loan-calculator
-Simple javascript app calculation loan intrest and payments
+Simple javascript app calculating loan intrest and payments
